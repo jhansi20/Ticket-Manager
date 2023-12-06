@@ -1,0 +1,1 @@
+UPDATE comments SET data=$1, modified_on=$2 WHERE id=$3;

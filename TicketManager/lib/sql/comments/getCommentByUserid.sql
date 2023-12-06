@@ -1,0 +1,1 @@
+SELECT * from comments WHERE data->>'userid'=$1;

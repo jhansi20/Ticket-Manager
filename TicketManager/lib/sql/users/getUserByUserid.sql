@@ -1,0 +1,1 @@
+SELECT * from users WHERE data->>'userid'=$1;

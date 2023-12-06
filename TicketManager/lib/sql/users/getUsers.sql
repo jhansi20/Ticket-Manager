@@ -1,0 +1,1 @@
+SELECT data->>'userid' from users;

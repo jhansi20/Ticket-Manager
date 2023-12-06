@@ -1,0 +1,1 @@
+SELECT * from comments WHERE id=$1;

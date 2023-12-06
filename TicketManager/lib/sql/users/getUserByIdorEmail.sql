@@ -1,0 +1,1 @@
+SELECT * from users WHERE data->>'userid'=$1 OR data->>'email'=$2;

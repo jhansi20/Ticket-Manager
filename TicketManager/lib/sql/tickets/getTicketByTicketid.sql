@@ -1,0 +1,1 @@
+SELECT * from tickets WHERE ticketid=$1;
